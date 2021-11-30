@@ -1,18 +1,12 @@
-#include <avr/io.h>
+# SOURCE FILE
 
-#define F_CPU 1000000    
+## main.c
+
+#include <avr/io.h>
 
 #include <util/delay.h>
 
-#define    E   5
-
-#define RS  6
-
-void send_a_command(unsigned char command);
-
-void send_a_character(unsigned char character);
-
-void send_a_string(char *string_of_characters);    
+#include "touch.h"
 
 int main(void)
 
@@ -162,52 +156,3 @@ key=0;
 
 }
 
-void send_a_command(unsigned char command)
-
-{
-
-PORTA = command;
-
-PORTD &= ~ (1<<RS); 
-
-PORTD |= 1<<E; 
-
-_delay_ms(50);
-
-PORTD &= ~1<<E;
-
-PORTA= 0;
-
-}
-
-void send_a_character(unsigned char character)
-
-{
-
-PORTA= character;
-
-PORTD |= 1<<RS;
-
-PORTD |= 1<<E;
-
-_delay_ms(50);
-
-PORTD &= ~1<<E;
-
-PORTA = 0;
-
-}
-
-void send_a_string(char *string_of_characters)
-
-{
-
-while(*string_of_characters > 0)
-
-{
-
-send_a_character(*string_of_characters++);
-
-}
-
-}
