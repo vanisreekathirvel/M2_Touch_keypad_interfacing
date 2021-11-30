@@ -1,6 +1,6 @@
 # RESEAECH 
 
-we are going to interface a 4x2 (8 key) touch keypad with ATMEGA32A microcontroller. We all know keypad is one of the most important input devices used in electronics engineering. This module does not have actual keys, but have specially designed capacitive metal pads, and these pads are very sensitive by this method, this will provide easy solution.
+we are going to interface a 4x2 (8 key) touch keypad with ATMEGA328 microcontroller. We all know keypad is one of the most important input devices used in electronics engineering. This module does not have actual keys, but have specially designed capacitive metal pads, and these pads are very sensitive by this method, this will provide easy solution.
 
 # DEFINING SYSTEM
 
