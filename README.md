@@ -10,7 +10,7 @@ BADGES
 | Codacya Badge | Code Quality | Code Grade | 
 |---------------|--------------|------------|
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8f2b772965184c4087114c5a3bf10c21)](https://app.codacy.com/gh/vanisreekathirvel/M2_Touch_keypad_interfacing?utm_source=github.com&utm_medium=referral&utm_content=vanisreekathirvel/M2_Touch_keypad_interfacing&utm_campaign=Badge_Grade_Settings)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d54c3a7b6b9d4a2ebc82846fd673864e)](https://www.codacy.com/gh/vanisreekathirvel/M2_Embedded_Touch-keypad-interfacing/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vanisreekathirvel/M2_Embedded_Touch-keypad-interfacing&amp;utm_campaign=Badge_Grade) | ![Code Quality](https://api.codiga.io/project/29818/score/svg)[![Code Quality - Static Code - Cppcheck](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vanisreekathirvel/M2_Embedded_Touch-keypad-interfacing/actions/workflows/cppcheck.yml) | ![Code Grade](https://api.codiga.io/project/29818/status/svg) | 
+ | ![Code Quality](https://api.codiga.io/project/29818/score/svg)[![Code Quality - Static Code - Cppcheck](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vanisreekathirvel/M2_Embedded_Touch-keypad-interfacing/actions/workflows/cppcheck.yml) | ![Code Grade](https://api.codiga.io/project/29818/status/svg) | 
 
 DEFINING SYSTEM
 
