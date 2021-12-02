@@ -42,16 +42,16 @@ This project is implemented to who are all used touch keypad interfacing.
 
 high level requirements
 
- * numbers
+numbers
+
+character
  
- * character
- 
- * string
+string
  
 low level requirements
 
- * input supply
+input supply
  
- * delay
+delay
  
 
