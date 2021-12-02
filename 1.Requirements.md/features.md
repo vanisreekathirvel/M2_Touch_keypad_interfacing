@@ -51,7 +51,7 @@ string
 low level requirements
 
 input supply
- 
+
 delay
  
 
